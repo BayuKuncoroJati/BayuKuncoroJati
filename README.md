@@ -1,16 +1,18 @@
-### Hi there 👋
+👋 Hi, I’m Bayu!
 
-<!--
-**BayuKuncoroJati/BayuKuncoroJati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Junior Web Developer passionate about building robust and scalable backends, with a primary focus on Laravel.
+Even though I’m at the early stage of my career, I thrive on learning new technologies, solving real-world problems, and growing with every project I work on.
 
-Here are some ideas to get you started:
+💻 What I Do:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Develop web applications with a strong emphasis on backend development
+
+🌱 Continuously learning and exploring modern web technologies
+
+🤝 Collaborate in team projects to turn ideas into real, functional solutions
+
+🎓 Background
+I hold an academic background in Information Systems and have experience working on web-based projects — both individually and as part of a team.
+
+🚀 What Drives Me
+I’m motivated by curiosity, adaptability, and a passion for delivering meaningful contributions to the tech world. My goal is to keep improving not just my technical skills, but also communication and teamwork abilities.
