@@ -16,3 +16,9 @@ I hold an academic background in Information Systems and have experience working
 
 🚀 What Drives Me
 I’m motivated by curiosity, adaptability, and a passion for delivering meaningful contributions to the tech world. My goal is to keep improving not just my technical skills, but also communication and teamwork abilities.
+
+📚 Course
+I have completed three online classes — KelasFullstack, WPU Course, and BuildWithAngga — with the goal of continuously improving my web development skills and becoming more familiar with solving real world case studies.
+
+📄 Certification
+Earned a nationally recognized BNSP certification in 2025 by successfully completing a comprehensive training program, demonstrating validated skills and commitment to professional growth.
