@@ -1,6 +1,6 @@
 👋 Hi, I’m Bayu!
 
-I’m a Junior Web Developer passionate about building robust and scalable backends, with a primary focus on Laravel.
+I’m a Junior Web Developer passionate about building robust and scalable backends, with the main focus currently on Laravel.
 Even though I’m at the early stage of my career, I thrive on learning new technologies, solving real-world problems, and growing with every project I work on.
 
 💻 What I Do:
